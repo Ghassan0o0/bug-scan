@@ -12,7 +12,7 @@
 ---------------------------------------------
 How to use:
 install the tool:
-
+git clone https://github.com/Ghassan0o0/bug-scan.git 
 chmod +x *
 sudo bash requiment.txt
 
