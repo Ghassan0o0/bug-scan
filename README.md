@@ -12,9 +12,9 @@
 ---------------------------------------------
 How to use:
 install the tool:
-git clone https://github.com/Ghassan0o0/bug-scan.git 
-chmod +x *
-sudo bash requiment.txt
+1: git clone https://github.com/Ghassan0o0/bug-scan.git 
+2:chmod +x *
+3:sudo bash requiment.txt
 
 run the file (scan.py)
 use the command:
