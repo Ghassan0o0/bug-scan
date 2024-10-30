@@ -13,8 +13,9 @@
 How to use:
 install the tool:
 1: git clone https://github.com/Ghassan0o0/bug-scan.git 
-2:chmod +x *
-3:sudo bash requiment.txt
+2:cd bug-scan
+3:chmod +x *
+4:sudo bash requiment.txt
 
 run the file (scan.py)
 use the command:
